@@ -4,7 +4,7 @@
   "description": "Angular ng-select - All in One UI Select, Multiselect and Autocomplete",
   "author": "@sofico/ng-select",
   "license": "MIT",
-  "repository": "sofico/ng-select",
+  "repository": "sofico-global/ng-select",
   "engines": {
     "node": ">= 6.9.0",
     "npm": ">= 3.0.0"
